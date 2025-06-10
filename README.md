@@ -1,4 +1,5 @@
-# Adivina-el-numero
+# Guess the number
+
 Es un juego donde se debe adivinar un numero al azar con 2 modos de juego.
 Existe un modo multijugador donde un jugador provee el numero y solitario donde el numero a adivinar es escogido al azar.. 
 Donde existe un rango fijo de 1 a 1000 y con diferentes niveles de dificultad dependiendo de los intentos. 
